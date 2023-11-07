@@ -1,0 +1,26 @@
+export const TOGGLE_SIDEBAR = "TOGGLE-SIDEBAR";
+export const Left_Room = "Left_Room";
+export const Right_Room = "Right_Room";
+export const SLIDE = "SLIDE";
+export const NEWLETTER_SUBMISSION = "NEWLETTER_SUBMISSION";
+export const LOADINGFALSE = "LOADINGFALSE";
+export const LOADINGTRUE = "LOADINGTRUE";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+
+export const HAVE_ERROR_ON_TOTAL_PRODUCTS_LOADING =
+  "HAVE_ERROR_ON_TOTAL_PRODUCTS_LOADING";
+export const HAVE_NOT_ERROR_ON_TOTAL_PRODUCTS_LOADING =
+  "HAVE_NOT_ERROR_ON_TOTAL_PRODUCTS_LOADING";
+
+export const ADD_SINGLE_PRODUCT = "ADD_SINGLE_PRODUCT";
+export const SINGLE_PRODUCT_LOADING_TRUE = "SINGLE_PRODUCT_LOADING_TRUE";
+export const SINGLE_PRODUCT_LOADING_FALSE = "SINGLE_PRODUCT_LOADING_FALSE";
+export const HAVE_ERROR_ON_SINGLE_PRODUCT_LOADING =
+  "HAVE_ERROR_ON_SINGLE_PRODUCT_LOADING";
+export const HAVE_NOT_ERROR_ON_SINGLE_PRODUCT_LOADING =
+  "HAVE_NOT_ERROR_ON_SINGLE_PRODUCT_LOADING";
+export const SEARCH_PRODUCT = "SEARCH_PRODUCT";
+export const REFRESH_PRODUCTS="REFRESH_PRODUCTS";
+export const showSearchResult_ON="showSearchResult_ON";
+export const showSearchResult_OFF="showSearchResult_OFF";
+export const SET_searchValueCopy="SET_searchValueCopy";
